@@ -6,6 +6,8 @@ titleTag = popupBox.querySelector("input"),
 descTag = popupBox.querySelector("textarea"),
 addBtn = popupBox.querySelector("button");
 
+//LocalStorage - Stores notes in local storage of browser
+
 
 export default Search;
 const months = ["January", "February", "March", "April", "May", "June", "July",

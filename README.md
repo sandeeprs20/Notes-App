@@ -1,5 +1,6 @@
 # Notes-App
 Notes app which stores notes using the browers local storage
+Published on June 1st, 2022
 
 Here's the link: http://www.notesapp.epizy.com/
 
